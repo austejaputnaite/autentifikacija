@@ -78,7 +78,7 @@ class ImagesForm extends React.Component {
                 ))}
               </div>
               <button className="clean-all" onClick={() => this.unselectAll()}>Išvalyti pasirinkimus</button>
-              <div className="error-inner">{this.state.error}</div>
+              <div className="error">{this.state.error}</div>
               <div> 
                 {(this.state.correct === 3 && this.state.uncorrect === 0) ? 
                 (<button onClick={() => this.setState({isHomeVisible: true})}>Prisijungti</button>) : 

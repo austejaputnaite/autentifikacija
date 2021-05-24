@@ -11,7 +11,7 @@ function LoginForm({SecondStep, error}) {
     };
 
     return (
-        <div className="small-form">
+        <div>
             <h1>Saugi internetinė svetainė</h1>
             <form onSubmit={submitHandler}>
                 <div className="form-inner">
