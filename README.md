@@ -1,6 +1,6 @@
 # Aprašas
 
-Nuoroda autentifikacijos demonstracijos filmuką: https://vult-my.sharepoint.com/:v:/g/personal/austeja_putnaite_mif_stud_vu_lt/Ebmplh-WZRtGq-n9jZ62-YoBcFr8iOU87f5L1ga-LxLkpQ?e=fz2ueD
+Nuoroda autentifikacijos demonstracijos filmuką: https://vult-my.sharepoint.com/:v:/g/personal/austeja_putnaite_mif_stud_vu_lt/EbvJeOCYgvdJk38dMiEPcMgBqi7u3_3U0QMtpgH1zv5Q7g?e=CmT1C5
 
 ## Paleidimo instrukcija
 
