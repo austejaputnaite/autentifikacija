@@ -9,10 +9,10 @@ Nuoroda autentifikacijos demonstracijos filmuką: https://vult-my.sharepoint.com
 3. Instaliuokite Node.js https://nodejs.org/en/ 
 4. Atsidarykite Visual Studio Code programą
 5. "Getting Started" lange spauskite "Clone git repository"
-6. Pateikite repozitorijos nuorodą: https://github.com/austejaputnaite/autentifikacija.git 
+6. Pateikite repozitorijos nuorodą: https://github.com/austejaputnaite/autentifikacija.git (reikės prisijungti prie Jūsų asmeninės GitHub paskyros)
 7. Pasirinkite, kur lokaliai patalpinsite projektą
 8. "Užkelkite" projektą į darbinę aplinką (angl. workspace)
-9. PAsitikrinkite ar node.js ir npm tinkamai suinstaliuoti. Terminale veskite:
+9. Pasitikrinkite ar node.js ir npm tinkamai suinstaliuoti. Terminale veskite:
   node -v
   npm -v
 10. Terminalo pagalba reikia susiinstaliuoti paketus pateiktus žemiau: 
