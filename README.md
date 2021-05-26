@@ -14,14 +14,14 @@ Nuoroda autentifikacijos demonstracijos filmuką: https://vult-my.sharepoint.com
 8. "Užkelkite" projektą į darbinę aplinką (angl. workspace)
 9. Pasitikrinkite ar node.js ir npm tinkamai suinstaliuoti. Terminale veskite:\
   node -v\
-  npm -v\
-10. Terminalo pagalba reikia susiinstaliuoti paketus pateiktus žemiau:\ 
+  npm -v
+10. Terminalo pagalba reikia susiinstaliuoti paketus pateiktus žemiau:\
   npm install react-select\
   npm install --save react-router-dom\
-  npm install react-loading-icons\
+  npm install react-loading-icons
 11. VSCode terminale veskite:\
-  npm run build  \
-  npm start \
+  npm run build\
+  npm start
 12. Naršyklėje http://localhost:3000/ pasileidžia programa
 
 El. paštas: test@test.lt
