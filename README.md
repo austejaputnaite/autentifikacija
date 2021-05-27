@@ -17,7 +17,6 @@ Nuoroda autentifikacijos demonstracijos filmuką: https://vult-my.sharepoint.com
   npm -v
 10. Terminalo pagalba reikia susiinstaliuoti paketus pateiktus žemiau:\
   npm install react-select\
-  npm install --save react-router-dom\
   npm install react-loading-icons
 11. VSCode terminale veskite:\
   npm run build\
